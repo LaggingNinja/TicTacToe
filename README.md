@@ -1,6 +1,6 @@
 # TicTacToe
 Simple TicTacToe App
-by Chong Wei Shen AKA LaggingNinja\
+by Chong Wei Shen AKA LaggingNinja
 
 _MyContacts_\
 Discord: 阿轩~ Wei Shen#8528 \
