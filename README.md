@@ -5,7 +5,7 @@ by Chong Wei Shen AKA LaggingNinja\
 _MyContacts_\
 Discord: 阿轩~ Wei Shen#8528 \
 LinkedIn: Chong Wei Shen \
-Email: cws331600@gmail.com \
+Email: cws331600@gmail.com 
 
  
 
